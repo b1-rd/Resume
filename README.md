@@ -17,4 +17,5 @@
 
 -----------
 2021 제 3대 스마트IoT 학생회 BOOST 사업
-
+<img src=midterm.png height=150 width=150>
+<img src=event.png 
