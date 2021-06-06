@@ -17,7 +17,19 @@
 
 -----------
 2021 제 3대 스마트IoT 학생회 BOOST 사업   
-<img src=midterm.png height=200 width=200> 중간고사 간식사업
-<img src=event.png height=200 width=200> 성년의날 이벤트
-<img src=final.png height=200 width=200> 기말고사  
+<img src=midterm.png height=200 width=200>
+<img src=event.png height=200 width=200>
+<img src=final.png height=200 width=200>   
+중간고사 간식사업, 성년의날 이벤트, 기말고사 간식사업   
+
+-----------
+
+취득목표 자격증
+|이름|공부내용|점수|
+|---|---|---|
+|토익|문법,어휘|850점|
+|전기기사|전기기기, KEC|실기 평균60점 이상|
+|전기공사기사|전기공사재료|필기,실기 평균60점 이상|
+
+
 
