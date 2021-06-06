@@ -1,6 +1,6 @@
 # 한림대학교 소프트웨어융합대학
 ---
-<img src=IMG_6548.JPG height=331 width=248> 
+<img src=IMG_6548.JPG height=270 width=200> 
 고한새
 
 ---
